@@ -1,0 +1,13 @@
+:root {
+  --primary: #9268b2;
+  --primary-text: #ffffff;
+  --secondary: #ffffb2;
+  --secondary-text: #ffffff;
+  --accent: #cb75ea;
+  --accent-text: #ffffff;
+  --link-text:#dcabff;
+  --link-text-hover:#e4bffe;
+  --button-bg:#ae67f5;
+  --button-hover:#bb81f6;
+  --button-disabled:#7f6995;
+}
