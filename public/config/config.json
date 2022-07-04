@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x157a5B2ccD44765B11813c64e336aE2E9E9C1Ab7",
-  "SCAN_LINK": "https://polygonscan.com/token/0x157a5B2ccD44765B11813c64e336aE2E9E9C1Ab7",
+  "CONTRACT_ADDRESS": "0x300C476f6F0AC0048A7C27185eb4593919970947",
+  "SCAN_LINK": "https://polygonscan.com/token/0x300C476f6F0AC0048A7C27185eb4593919970947",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
@@ -13,9 +13,9 @@
   "DISPLAY_COST": 30,
   "WEI_COST_FREE": 500000000000000000,
   "DISPLAY_COST_FREE": 0.5,
-  "GAS_LIMIT": 585000,
+  "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/polyorcs",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/polyorcsnft",
   "SHOW_BACKGROUND": false,
   "EMAIL":"contact@goblinforest.wtf",
   "DESCRIPTION":"After 50% + mint wait for the orc forest ! more traits, better art, more valuable NFTs ! only goblinforest.wtf owners will receive x1 free mint, others will have to pay to mint our Orcs ! this is your ticket to the OrcForest. 1/1 item owners will receive x3 Free Mint."

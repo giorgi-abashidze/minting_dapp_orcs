@@ -171,7 +171,7 @@ function App() {
         totalCostWei = String(costFree * mintAmount);
       }
       else{
-        totalCostWei = String(cost * payable);
+        totalCostWei = String(cost * payable + ((mintAmount - payable) * costFree));
       }
 
       let totalGasLimit = String(gasLimit * mintAmount);
