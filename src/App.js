@@ -258,7 +258,7 @@ function App() {
   }
 
   const openOpensea = () => {    
-    window.open("https://opensea.io/collection/polyorcs");
+    window.open("https://opensea.io/collection/polyorcsnft");
   }
 
   const checkUsages = ()  => {    
