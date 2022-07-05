@@ -485,6 +485,19 @@ function App() {
                   </s.Container>
                 ) : (
                   <>
+                    
+                   
+                    <s.TextDescription
+                      style={{
+                        color:"var(--warning)",
+                        fontSize:"20px",
+                        textAlign: "center",
+                      }}
+                    >
+                      Attention !! Because the contract have complex logic, it connects to goblinforest contract and checks everything,
+                      it need higher gas fee than regular mint. make sure that you paying (mint price + minimum 0.2 Matic for gas) or transaction will fail.
+                    </s.TextDescription>
+                    <s.SpacerSmall></s.SpacerSmall>
                     <s.TextDescription
                       style={{
                         textAlign: "center",
