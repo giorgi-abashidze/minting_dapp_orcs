@@ -308,7 +308,14 @@ function App() {
         </ResponsiveWrapper>
        
         <StyledLogo alt={"logo"} src={"/config/images/logo.png"} />
-        
+        <s.SpacerSmall></s.SpacerSmall>
+        <s.TextDescription style={{textAlign:"center",backgroundColor:"var(--button-hover)",padding:"24px"}}>
+            <p style={{textAlign:"center"}}>New free mint collection launched !</p>
+            <StyledLink href="https://justpandaz.vercel.app/" style={{textAlign:"center"}}> JustPandaz </StyledLink>
+            <s.SpacerSmall></s.SpacerSmall>
+            <p style={{textAlign:"center"}}>Doodle style amazing collection you don't have to miss.</p>
+            </s.TextDescription>
+            <s.SpacerSmall></s.SpacerSmall>
         {blockchain.account !== "" &&
                 blockchain.smartContract !== null ? 
                   <div>
